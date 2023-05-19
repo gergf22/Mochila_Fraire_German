@@ -1,10 +1,42 @@
 Inciar repositorio local:
     git init
 
-agregar cambios al stagin area 
+agregar cambios al stagin area:
     git add . (el punto es para que se agreguen todos los elementos de la caprpeta)
 
-comitear los cambios 
+comitear los cambios:
 
-    git commit -m "Mensaje"
+    git commit -m "Mensaje" (agregar  un mensage que haga alusion al cambio realizado)
+
+verificar el estado del repositorio:
+    git status
+
+vincular con el repositorio remoto:
+
+    git remote add origin <https del repositorio como figura en github>
+
+subir al repositorio los commits:
+
+    git push origin main(en este caso por que me encuetro trabjando en main)
+
+descargar los cambios desde el repositorio remoto:
+
+    git pull origin main
+
+Clonar un repositorio existente:
+
+    git clone <URL del repositorio como figura en github>
+
+revisar los commits del repositorio (desde la rama que me enuentro):
+
+    git log  <--oneline> (puedo agregar el comando --oneline para ver en una sola linea los commits)
+
+crear una nueva rama:
+
+    git branch <nombre de la nueva rama>
+
+Cambiar de rama:
+
+    git checkout <nombre de la rama>
+
 
