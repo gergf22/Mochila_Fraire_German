@@ -1,0 +1,10 @@
+Inciar repositorio local:
+    git init
+
+agregar cambios al stagin area 
+    git add . (el punto es para que se agreguen todos los elementos de la caprpeta)
+
+comitear los cambios 
+
+    git commit -m "Mensaje"
+
