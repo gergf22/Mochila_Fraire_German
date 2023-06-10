@@ -1,0 +1,10 @@
+Respuestas:
+
+1- Algunos lenguajes han sido creados especificamente para ser interpretados por algun S.O. en especifico.
+	esto depende principalmente de que no todos los sistemas operativos interpretan de la misma manera y el código de cada lenguaje debe compilarse de una forma especifica para cada S.O.
+
+2- el virtual box es una maquina virtual de sistemas
+
+3- no afecta a las demas, justamente las maquinas virtuales se utilizan para poder realizar pruebas de forma segura.
+
+
