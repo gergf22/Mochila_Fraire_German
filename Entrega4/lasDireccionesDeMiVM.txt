@@ -1,0 +1,17 @@
+ip privada maquina virtual:
+
+	Direc. inet:10.0.2.15  Difus.:10.0.2.255  Másc:255.255.255.0
+
+IP publica:
+	
+	 190.134.8.243 
+
+Dirección MAC:
+
+	direcciónHW 08:00:27:93:59:5b
+
+La dirección publica es la misma.
+ya que ambas tienen salida a travez del mismo router.
+
+La ip privada es diferente a la que utilizan el resto de equipos en la red privada.
+
